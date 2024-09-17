@@ -1,9 +1,14 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "EDH_test"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Add new game info"
+      href: add.html
+    - text: Predict game results
+      href: predict.html
+    
 output_dir: docs
